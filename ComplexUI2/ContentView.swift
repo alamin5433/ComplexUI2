@@ -360,7 +360,7 @@ struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
     }
-}ZAQfv3gqev3gf
+}
 
 struct CustomShape: Shape {
     func path(in rect: CGRect) -> Path {
